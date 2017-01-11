@@ -7,7 +7,9 @@ Based on the article "On particle filters applied to electricity load forecastin
 (https://arxiv.org/pdf/1210.0770v2.pdf)
 
 Data sources: 
+
 -RTE (http://clients.rte-france.com/lang/an/visiteurs/vie/vie_stats_conso_inst.jsp)
+
 -Meteo France (https://donneespubliques.meteofrance.fr/?fond=produit&id_produit=90&id_rubrique=32)
 
 See the pdf "Summary" for more details about the project
