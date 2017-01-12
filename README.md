@@ -1,4 +1,4 @@
- a# Particle-Filtering-Electricity-Project
+# Particle-Filtering-Electricity-Project
 Particle Filtering applied to electricity load forecasting
 
 ENSAE Paristech school project for the course "Hidden Markov Models and Sequential Monte Carlo"
